@@ -2,6 +2,9 @@
 	<foreignObject width="800px" height="400px">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
+				#readme {
+				  background: red!important;
+				}
 				@keyframes rotate {
 					0% {
 						transform: rotate(3deg);
